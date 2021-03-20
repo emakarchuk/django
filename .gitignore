@@ -1,0 +1,5 @@
+# Local development storage
+**/*.sqlite3
+
+# IDE files
+/.idea
