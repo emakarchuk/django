@@ -1,0 +1,8 @@
+# VCS
+/.git
+
+# IDE
+/.idea
+
+# Local storages
+/helloworld/data
